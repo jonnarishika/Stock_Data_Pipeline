@@ -104,7 +104,6 @@ Power BI connects directly to the PostgreSQL warehouse.
 
 **Dashboard Features:**
 * Latest stock price KPI cards
-* Hourly trend analysis
 * Stock symbol filter (AAPL / MSFT / TSLA)
 * Aggregated analytics tables
 
