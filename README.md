@@ -108,6 +108,7 @@ Power BI connects directly to the PostgreSQL warehouse.
 * Stock symbol filter (AAPL / MSFT / TSLA)
 * Aggregated analytics tables
 
- **Screenshot:** Add your Power BI dashboard image here
+ **Screenshot:** <img width="1146" height="344" alt="image" src="https://github.com/user-attachments/assets/fee352b2-2275-41d4-8358-42fd09455047" />
+
 
 ---
