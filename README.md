@@ -52,7 +52,7 @@ Verify containers:
 docker ps
 ```
 
-### 2️⃣ Run Kafka Producer (API → Kafka)
+###  Run Kafka Producer (API → Kafka)
 
 Start the stock price producer:
 ```bash
@@ -64,7 +64,7 @@ This continuously publishes live stock price data to the Kafka topic:
 stock_prices
 ```
 
-### 3️⃣ Run Spark Streaming Job (Kafka → PostgreSQL)
+###  Run Spark Streaming Job (Kafka → PostgreSQL)
 
 Enter the Spark container:
 ```bash
@@ -83,7 +83,7 @@ This continuously writes processed records into the PostgreSQL table:
 stock_prices
 ```
 
-### 4️⃣ Verify Data in PostgreSQL
+###  Verify Data in PostgreSQL
 
 Access PostgreSQL inside Docker:
 ```bash
