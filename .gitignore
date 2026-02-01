@@ -1,0 +1,6 @@
+output/
+checkpoints/
+*.parquet
+*.log
+__pycache__/
+.env
